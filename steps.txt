@@ -1,0 +1,8 @@
+1. git init
+
+2. Create .gitignore
+
+3. git remote add origin https://github.com/BlueJayLeeFly/Test-project.git
+   - destination on github
+
+4. 

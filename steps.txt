@@ -5,4 +5,18 @@
 3. git remote add origin https://github.com/BlueJayLeeFly/Test-project.git
    - destination on github
 
-4. 
+4. git add . / git status
+
+5. git commit -m " "
+
+6. git log
+
+7. git branch - check the current branch
+
+8. git push origin main - instead of using -u / -u specifies default value but it causes push to the wrong branch
+
+9. git checkout -b feature/add_to_cart - clone of main branch
+
+10. git branch
+
+11. git push orgin feature/add_to_cart
